@@ -77,4 +77,6 @@
 </ul>
   <img src="images\diagramOne.jpg" alt="Diagram of Study Buddy System" />
   
+<p>Diagrams intended to show the layout of the mockups for Milestone One</p>
+
   </div>
