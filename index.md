@@ -75,6 +75,6 @@
     <li>A Slack Bot to suggest and help implement Study Buddy meetings.</li>
     <li>A rating system for meetings and sensei participation.</li>
 </ul>
-  
+  <img src="images\diagramOne.jpg" alt="Diagram of Study Buddy System" />
   
   </div>
