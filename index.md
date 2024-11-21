@@ -1,3 +1,9 @@
+<style>
+  .image-spacing {
+    margin-bottom: 20px; /* Adds space below each image */
+  }
+</style>
+
 <div class="container">
 
   <p><a href="https://docs.google.com/document/d/1nfh7oAKhSBG-DGhlGctY2yZ8WQvXOC_t-Kw6Mexcrp0/edit?usp=sharing">Link to team contract</a></p>
@@ -88,19 +94,19 @@
   <p>Below are up to date screenshots of the current deployment</p>
 
   <!-- Placeholder for Screenshot 1 -->
-  <img src="images\M1One.png" alt="Screenshot 1" />
+  <img src="images\M1One.png" alt="Screenshot 1" class="image-spacing" />
   
   <!-- Placeholder for Screenshot 2 -->
-  <img src="images\M1Two.png" alt="Screenshot 2" />
+  <img src="images\M1Two.png" alt="Screenshot 2" class="image-spacing" />
   
   <!-- Placeholder for Screenshot 3 -->
-  <img src="images\M1Three.png" alt="Screenshot 3" />
+  <img src="images\M1Three.png" alt="Screenshot 3" class="image-spacing" />
   
   <!-- Placeholder for Screenshot 4 -->
-  <img src="images\M1Four.png" alt="Screenshot 4" />
+  <img src="images\M1Four.png" alt="Screenshot 4" class="image-spacing" />
   
   <!-- Placeholder for Screenshot 5 -->
-  <img src="images\M1Five.png" alt="Screenshot 5" />
+  <img src="images\M1Five.png" alt="Screenshot 5" class="image-spacing" />
   
   <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/1">M1 project board</a></p>
   <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/2">M2 project board</a></p>
