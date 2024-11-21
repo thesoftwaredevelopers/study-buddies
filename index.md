@@ -84,7 +84,8 @@
 
   <h3 id="beyond-the-basics">Deployment<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h3>
 
-  <li><a href="https://the-software-developers.vercel.app/">Link to deployed site</a></li>
+  <p><a href="https://the-software-developers.vercel.app/">Link to deployed site</a></p>
 
   <p>Below are up to date screenshots of the current deployment</p>
+  <div> </div>
   </div>
