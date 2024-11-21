@@ -1,6 +1,6 @@
 <div class="container">
 
-  <li><a href="https://docs.google.com/document/d/1nfh7oAKhSBG-DGhlGctY2yZ8WQvXOC_t-Kw6Mexcrp0/edit?usp=sharing">Link to team contract</a></li>
+  <p><a href="https://docs.google.com/document/d/1nfh7oAKhSBG-DGhlGctY2yZ8WQvXOC_t-Kw6Mexcrp0/edit?usp=sharing">Link to team contract</a></p>
   
   <h1 id="project-campus-jam">ICStudy</h1>
 
@@ -82,4 +82,9 @@
   
 <p>Diagrams which show the layout of the mockups for Milestone One</p>
 
+  <h3 id="beyond-the-basics">Deployment<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h3>
+
+  <li><a href="https://the-software-developers.vercel.app/">Link to deployed site</a></li>
+
+  <p>Below are up to date screenshots of the current deployment</p>
   </div>
