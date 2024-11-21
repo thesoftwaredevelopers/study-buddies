@@ -1,12 +1,9 @@
 <div class="container">
-  <div class="left-column">
-    <ul>
-      <li><a href="https://github.com/thesoftwaredevelopers">View my Github Profile</a></li>
-    </ul>
-  </div>
-<div class="container">
-    <h1 id="project-campus-jam">ICStudy</h1>
+
+  <li><a href="https://docs.google.com/document/d/1nfh7oAKhSBG-DGhlGctY2yZ8WQvXOC_t-Kw6Mexcrp0/edit?usp=sharing">Link to team contract</a></li>
   
+  <h1 id="project-campus-jam">ICStudy</h1>
+
   <h3 id="overview">Overview<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#overview" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h3>
   
   <p><em>The problem:</em> ICS students often spend more time than they need on their homework and don’t learn the material as effectively as they could, because they study alone and do not leverage the power of face-to-face study groups with peer mentors.</p>
