@@ -6,7 +6,7 @@
 
 <div class="container">
 
-  <p><a href="https://docs.google.com/document/d/1nfh7oAKhSBG-DGhlGctY2yZ8WQvXOC_t-Kw6Mexcrp0/edit?usp=sharing">Link to team contract</a></p>
+  <p><a href="https://docs.google.com/document/d/1wbYcPTCfg8s0pp8VAVFCRjag8tJorO2LU7YyEfDUZ4o/edit?usp=sharing">Link to team contract</a></p>
   
   <h1 id="project-campus-jam">ICStudy</h1>
 
