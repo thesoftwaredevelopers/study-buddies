@@ -52,8 +52,7 @@
     <li>Calendar page</li>
     <li>Create Study Sesh page</li>
     <li>Study Session page</li>
-    <li>Game mechanic page(s) (for example, a leaderboard?)
-</li>
+    <li>Game mechanic page(s) (for example, a leaderboard?)</li>
   </ul>
   
   <h3 id="use-case-ideas">Use case ideas<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#use-case-ideas" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h3>
@@ -80,12 +79,31 @@
 </ul>
   <img src="images\diagramOne.jpg" alt="Diagram of Study Buddy System" />
   
-<p>Diagrams which show the layout of the mockups for Milestone One</p>
+  <p>Diagrams which show the layout of the mockups for Milestone One</p>
 
   <h3 id="beyond-the-basics">Deployment<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h3>
 
   <p><a href="https://the-software-developers.vercel.app/">Link to deployed site</a></p>
 
   <p>Below are up to date screenshots of the current deployment</p>
+
+  <!-- Placeholder for Screenshot 1 -->
+  <img src="images/placeholder1.jpg" alt="Screenshot 1" />
+  
+  <!-- Placeholder for Screenshot 2 -->
+  <img src="images/placeholder2.jpg" alt="Screenshot 2" />
+  
+  <!-- Placeholder for Screenshot 3 -->
+  <img src="images/placeholder3.jpg" alt="Screenshot 3" />
+  
+  <!-- Placeholder for Screenshot 4 -->
+  <img src="images/placeholder4.jpg" alt="Screenshot 4" />
+  
+  <!-- Placeholder for Screenshot 5 -->
+  <img src="images/placeholder5.jpg" alt="Screenshot 5" />
+  
+  <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/1">M1 project board</a></p>
+  <p><a href="https://example-link-to-m2-project-board.com">M2 project board</a></p>
+  
   <div> </div>
-  </div>
+</div>
