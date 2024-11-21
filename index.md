@@ -103,7 +103,7 @@
   <img src="images/placeholder5.jpg" alt="Screenshot 5" />
   
   <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/1">M1 project board</a></p>
-  <p><a href="https://example-link-to-m2-project-board.com">M2 project board</a></p>
+  <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/2">M2 project board</a></p>
   
   <div> </div>
 </div>
