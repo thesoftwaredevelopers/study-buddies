@@ -1,5 +1,11 @@
 <div class="container">
-    <h1 id="project-campus-jam">Project: Study Buddy</h1>
+  <div class="left-column">
+    <ul>
+      <li><a href="https://github.com/thesoftwaredevelopers">View my Github Profile</a></li>
+    </ul>
+  </div>
+<div class="container">
+    <h1 id="project-campus-jam">ICStudy</h1>
   
   <h3 id="overview">Overview<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#overview" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h3>
   
