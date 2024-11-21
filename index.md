@@ -88,19 +88,19 @@
   <p>Below are up to date screenshots of the current deployment</p>
 
   <!-- Placeholder for Screenshot 1 -->
-  <img src="images/placeholder1.jpg" alt="Screenshot 1" />
+  <img src="images\M1One.png" alt="Screenshot 1" />
   
   <!-- Placeholder for Screenshot 2 -->
-  <img src="images/placeholder2.jpg" alt="Screenshot 2" />
+  <img src="images\M1Two.png" alt="Screenshot 2" />
   
   <!-- Placeholder for Screenshot 3 -->
-  <img src="images/placeholder3.jpg" alt="Screenshot 3" />
+  <img src="images\M1Three.png" alt="Screenshot 3" />
   
   <!-- Placeholder for Screenshot 4 -->
-  <img src="images/placeholder4.jpg" alt="Screenshot 4" />
+  <img src="images\M1Four.png" alt="Screenshot 4" />
   
   <!-- Placeholder for Screenshot 5 -->
-  <img src="images/placeholder5.jpg" alt="Screenshot 5" />
+  <img src="images\M1Five.png" alt="Screenshot 5" />
   
   <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/1">M1 project board</a></p>
   <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/2">M2 project board</a></p>
