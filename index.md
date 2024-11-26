@@ -110,6 +110,9 @@
   
   <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/1">M1 project board</a></p>
   <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/2">M2 project board</a></p>
+
+  <!-- Placeholder for Screenshot 6 UML -->
+  <img src="images\Scanned Documents.pdf" alt="UML" class="image-spacing" />
   
   <div> </div>
 </div>
