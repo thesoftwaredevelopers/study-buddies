@@ -14,7 +14,7 @@
   
   <p><em>The problem:</em> ICS students often spend more time than they need on their homework and don’t learn the material as effectively as they could, because they study alone and do not leverage the power of face-to-face study groups with peer mentors.</p>
   
-  <p><em>The solution:</em>  ICStudy is an application for UHM ICS students to self-organize face-to-face study groups around a course and/or specific homework or project topic.</p>
+  <p><em>The solution:</em> ICStudy is an application for UHM ICS students to self-organize face-to-face study groups around a course and/or specific homework or project topic.</p>
   
   <h3 id="approach">Approach<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#approach" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h3>
   
@@ -98,39 +98,38 @@
   <!-- Placeholder for Screenshot 1 -->
   <img src="images\M1One.png" alt="Screenshot 1" class="image-spacing" />
   
-  <p> *Landing Page* </p>
+  <p><em>Landing Page</em></p>
   
   <!-- Placeholder for Screenshot 2 -->
   <img src="images\M1Two.png" alt="Screenshot 2" class="image-spacing" />
   
-  <p> *Find Session Page* Here you can find a session to join! </p>
+  <p><em>Find Session Page</em> Here you can find a session to join! </p>
 
   <!-- Placeholder for Screenshot 3 -->
   <img src="images\M1Three.png" alt="Screenshot 3" class="image-spacing" />
   
-  <p> *Profile Page* View someone's profile or your own! </p>
+  <p><em>Profile Page</em> View someone's profile or your own! </p>
 
   <img src="images\M2Three.png" alt="Screenshot 7" class="image-spacing" />
 
-  <p> *My Sessions* View and manage your sessions! </p>
+  <p><em>My Sessions</em> View and manage your sessions! </p>
 
   <!-- Placeholder for Screenshot 4 -->
   <img src="images\M1Four.png" alt="Screenshot 4" class="image-spacing" />
   
-  <p> *Leaderboard* View the leaderboard for all users! </p>
+  <p><em>Leaderboard</em> View the leaderboard for all users! </p>
 
   <!-- Placeholder for Screenshot 5 -->
   <img src="images\M1Five.png" alt="Screenshot 5" class="image-spacing" />
   
-  <p> *Create Session* Create a new study session! </p>
+  <p><em>Create Session</em> Create a new study session! </p>
 
   <img src="images\M2One.png" alt="Screenshot 6" class="image-spacing" />
 
-  <p> *Calendar* View a calendar which shows all of your sessions! </p>
+  <p><em>Calendar</em> View a calendar which shows all of your sessions! </p>
 
   <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/1">M1 project board</a></p>
   <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/2">M2 project board</a></p>
   <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/4">M3 project board</a></p>
 
-  <div> </div>
 </div>
