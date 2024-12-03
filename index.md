@@ -89,8 +89,6 @@
   
   <User Guide>
 
-  <h3 id="beyond-the-basics">Pages<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h3>
-
   <p><a href="https://the-software-developers.vercel.app/">Link to deployed site</a></p>
 
   <p>Below are up to date screenshots of the current build</p>
@@ -103,33 +101,73 @@
   <!-- Placeholder for Screenshot 2 -->
   <img src="images\M1Two.png" alt="Screenshot 2" class="image-spacing" />
   
-  <p><em>Find Session Page</em> Here you can find a session to join! </p>
+  <p><em>Find Session Page</em> | Here you can find a session to join!</p>
 
   <!-- Placeholder for Screenshot 3 -->
   <img src="images\M1Three.png" alt="Screenshot 3" class="image-spacing" />
   
-  <p><em>Profile Page</em> View someone's profile or your own! </p>
+  <p><em>Profile Page</em> | View someone's profile or your own!</p>
 
   <img src="images\M2Three.png" alt="Screenshot 7" class="image-spacing" />
 
-  <p><em>My Sessions</em> View and manage your sessions! </p>
+  <p><em>My Sessions</em> | View and manage your sessions!</p>
 
   <!-- Placeholder for Screenshot 4 -->
   <img src="images\M1Four.png" alt="Screenshot 4" class="image-spacing" />
   
-  <p><em>Leaderboard</em> View the leaderboard for all users! </p>
+  <p><em>Leaderboard</em> | View the leaderboard for all users!</p>
 
   <!-- Placeholder for Screenshot 5 -->
   <img src="images\M1Five.png" alt="Screenshot 5" class="image-spacing" />
   
-  <p><em>Create Session</em> Create a new study session! </p>
+  <p><em>Create Session</em> | Create a new study session!</p>
 
   <img src="images\M2One.png" alt="Screenshot 6" class="image-spacing" />
 
-  <p><em>Calendar</em> View a calendar which shows all of your sessions! </p>
+  <p><em>Calendar</em> | View a calendar which shows all of your sessions!</p>
 
   <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/1">M1 project board</a></p>
   <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/2">M2 project board</a></p>
   <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/4">M3 project board</a></p>
+
+<h3 id="developer-guide">Developer Guide</h3>
+  
+  <p>Follow the steps below to set up the development environment:</p>
+  
+  <ol>
+    <li>Clone the repository</li>
+    <!-- <img src="images/step1-placeholder.jpg" alt="Clone Repo Placeholder" class="image-spacing" /> -->
+    <p>Clone the repo to your local machine using:</p>
+    <pre>git clone <repo-url></pre>
+    
+    <li>Run <code>npm install</code></li>
+    <!-- <img src="images/step2-placeholder.jpg" alt="npm install Placeholder" class="image-spacing" /> -->
+    <p>Install the necessary dependencies by running:</p>
+    <pre>npm install</pre>
+
+    <li>Setup database environment (NeonDB, Vercel)</li>
+    <!-- <img src="images/step3-placeholder.jpg" alt="Database Setup Placeholder" class="image-spacing" /> -->
+    <p>Link NeonDB and Vercel to set up the database environment.</p>
+    
+    <li>Create an S3 bucket with AWS to store images</li>
+    <!-- <img src="images/step4-placeholder.jpg" alt="AWS S3 Bucket Placeholder" class="image-spacing" /> -->
+    <p>Create an AWS account and use S3 to create a bucket to store images.</p>
+    <ul>
+      <li>Create AWS account</li>
+      <li>Use S3 service to create a bucket</li>
+      <li>Set up and create an IAM user for permissions</li>
+      <li>Configure user policies and CORS permissions for upload</li>
+    </ul>
+    
+    <li>Add environment variables into your local .env file</li>
+    <!-- <img src="images/step5-placeholder.jpg" alt="Env Variables Setup Placeholder" class="image-spacing" /> -->
+    <p>Add the AWS keys and NeonDB environment variables into the <code>.env</code> file in your project directory.</p>
+    
+    <li>Run the application locally</li>
+    <!-- <img src="images/step6-placeholder.jpg" alt="Run Locally Placeholder" class="image-spacing" /> -->
+    <p>Run the application locally with:</p>
+    <pre>npm run dev</pre>
+    <p>Your site should now be running on localhost.</p>
+  </ol>
 
 </div>
