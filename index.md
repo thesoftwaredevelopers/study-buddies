@@ -126,10 +126,6 @@
 
   <p><em>Calendar</em> | View a calendar which shows all of your sessions!</p>
 
-  <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/1">M1 project board</a></p>
-  <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/2">M2 project board</a></p>
-  <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/4">M3 project board</a></p>
-  
   <!-- Developer Guide Section -->
   <h3 id="developer-guide">Developer Guide</h3>
   <ol>
@@ -151,4 +147,8 @@
     <li>Add environment variables into local <code>.env</code> file (From AWS keys and NeonDB environment variables)</li>
     <li>Run <code>npm run dev</code>, site running on localhost</li>
   </ol>
-</div>
+
+  <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/1">M1 project board</a></p>
+  <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/2">M2 project board</a></p>
+  <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/4">M3 project board</a></p>
+
