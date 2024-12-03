@@ -129,45 +129,26 @@
   <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/1">M1 project board</a></p>
   <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/2">M2 project board</a></p>
   <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/4">M3 project board</a></p>
-
-<h3 id="developer-guide">Developer Guide</h3>
   
-  <p>Follow the steps below to set up the development environment:</p>
-  
+  <!-- Developer Guide Section -->
+  <h3 id="developer-guide">Developer Guide</h3>
   <ol>
-    <li>Clone the repository</li>
-    <!-- <img src="images/step1-placeholder.jpg" alt="Clone Repo Placeholder" class="image-spacing" /> -->
-    <p>Clone the repo to your local machine using:</p>
-    <pre>git clone <repo-url></pre>
-    
+    <li>Clone repo</li>
     <li>Run <code>npm install</code></li>
-    <!-- <img src="images/step2-placeholder.jpg" alt="npm install Placeholder" class="image-spacing" /> -->
-    <p>Install the necessary dependencies by running:</p>
-    <pre>npm install</pre>
-
-    <li>Setup database environment (NeonDB, Vercel)</li>
-    <!-- <img src="images/step3-placeholder.jpg" alt="Database Setup Placeholder" class="image-spacing" /> -->
-    <p>Link NeonDB and Vercel to set up the database environment.</p>
-    
-    <li>Create an S3 bucket with AWS to store images</li>
-    <!-- <img src="images/step4-placeholder.jpg" alt="AWS S3 Bucket Placeholder" class="image-spacing" /> -->
-    <p>Create an AWS account and use S3 to create a bucket to store images.</p>
-    <ul>
-      <li>Create AWS account</li>
-      <li>Use S3 service to create a bucket</li>
-      <li>Set up and create an IAM user for permissions</li>
-      <li>Configure user policies and CORS permissions for upload</li>
-    </ul>
-    
-    <li>Add environment variables into your local .env file</li>
-    <!-- <img src="images/step5-placeholder.jpg" alt="Env Variables Setup Placeholder" class="image-spacing" /> -->
-    <p>Add the AWS keys and NeonDB environment variables into the <code>.env</code> file in your project directory.</p>
-    
-    <li>Run the application locally</li>
-    <!-- <img src="images/step6-placeholder.jpg" alt="Run Locally Placeholder" class="image-spacing" /> -->
-    <p>Run the application locally with:</p>
-    <pre>npm run dev</pre>
-    <p>Your site should now be running on localhost.</p>
+    <li>Setup database environment:
+      <ul>
+        <li>NeonDB, Vercel (link them together)</li>
+      </ul>
+    </li>
+    <li>Create S3 bucket with AWS to store images
+      <ul>
+        <li>Create AWS account</li>
+        <li>Use S3 service to create a bucket to store objects</li>
+        <li>Setup and create IAM user to configure permissions and create access and secret keys</li>
+        <li>Configure user policies and CORS permissions to allow clients to upload and PUT objects into the bucket</li>
+      </ul>
+    </li>
+    <li>Add environment variables into local <code>.env</code> file (From AWS keys and NeonDB environment variables)</li>
+    <li>Run <code>npm run dev</code>, site running on localhost</li>
   </ol>
-
 </div>
