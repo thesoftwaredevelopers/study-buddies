@@ -6,6 +6,12 @@
 
 <div class="container">
 
+  <div style="display: flex; justify-content: center;">
+    <a href="https://github.com/thesoftwaredevelopers/TheSoftwareDevelopers/actions/workflows/ci.yml">
+      <img src="https://github.com/thesoftwaredevelopers/TheSoftwareDevelopers/workflows/ci.yml/badge.svg" alt="ICStudy">
+    </a>
+  </div>
+
   <p><a href="https://docs.google.com/document/d/1wbYcPTCfg8s0pp8VAVFCRjag8tJorO2LU7YyEfDUZ4o/edit?usp=sharing">Link to team contract</a></p>
   
   <h1 id="project-campus-jam">ICStudy</h1>
@@ -108,7 +114,7 @@
   
   <p><em>Profile Page</em> | View someone's profile or your own!</p>
 
-  <img src="images\M2Three.png" alt="Screenshot 7" class="image-spacing" />
+  <img src="images\M2Three.png" alt="Screenshot 8" class="image-spacing" />
 
   <p><em>My Sessions</em> | View and manage your sessions!</p>
 
@@ -125,6 +131,20 @@
   <img src="images\M2One.png" alt="Screenshot 6" class="image-spacing" />
 
   <p><em>Calendar</em> | View a calendar which shows all of your sessions!</p>
+
+<img src="images\M2Five.png" alt="Screenshot 10" class="image-spacing" />
+
+  <p><em>Edit Profile</em> | Edit your profile however you like!</p>
+
+  <img src="images\M2Four.png" alt="Screenshot 9" class="image-spacing" />
+
+  <p><em>Submit Feedback</em> | Submit Feedback to the Admins!</p>
+
+<img src="images\M2Two.png" alt="Screenshot 7" class="image-spacing" />
+
+  <p><em>Admin Feedback</em> | Admins can view the feedback you send!</p>
+
+
 
   <!-- Developer Guide Section -->
   <h3 id="developer-guide">Developer Guide</h3>
