@@ -8,7 +8,7 @@
 
   <div style="display: flex; justify-content: center;">
     <a href="https://github.com/thesoftwaredevelopers/TheSoftwareDevelopers/actions/workflows/ci.yml">
-      <img src="https://github.com/thesoftwaredevelopers/TheSoftwareDevelopers/workflows/ci.yml/badge.svg" alt="ICStudy">
+      <img src="https://github.com/thesoftwaredevelopers/TheSoftwareDevelopers/actions/workflows/ci.yml/badge.svg" alt="ICStudy">
     </a>
   </div>
 
