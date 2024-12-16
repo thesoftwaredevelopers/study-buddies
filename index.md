@@ -112,7 +112,7 @@
   <!-- Placeholder for Screenshot 3 -->
   <img src="images\M1Three.png" alt="Screenshot 3" class="image-spacing" />
   
-  <p><em>Profile Page</em> | View someone's profile or your own!</p>
+  <p><em>Profile Page</em> | View your own profile!</p>
 
   <img src="images\M2Three.png" alt="Screenshot 8" class="image-spacing" />
 
