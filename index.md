@@ -144,7 +144,17 @@
 
   <p><em>Admin Feedback</em> | Admins can view the feedback you send!</p>
 
+<img src="images\M3One.png" alt="Screenshot 6" class="image-spacing" />
 
+  <p><em>Manage Users</em> | Admins can ban users from here!</p>
+
+<img src="images\M3Two.png" alt="Screenshot 10" class="image-spacing" />
+
+  <p><em>Banned</em> | Banned users cannot access the site. Period.</p>
+
+  <img src="images\M3Three.png" alt="Screenshot 9" class="image-spacing" />
+
+  <p><em>Admin Manage Sessions</em> | Admins can delete sessions deemed inapropriate.</p>
 
   <!-- Developer Guide Section -->
   <h3 id="developer-guide">Developer Guide</h3>
@@ -167,6 +177,15 @@
     <li>Add environment variables into local <code>.env</code> file (From AWS keys and NeonDB environment variables)</li>
     <li>Run <code>npm run dev</code>, site running on localhost</li>
   </ol>
+
+<h3 id="community-feedback">Community Feedback<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#community-feedback" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h3>
+
+<p>Upon asking five peers within the UH system for feedback on one of the versions of our deployments, the findings were generally that the app, although (mostly) functional at the time, needed more visual flare. They all liked the look of the landing page and suggested that we change the rest of the site to have a similar style.</p>
+
+<p>Upon asking them to use the application, there were some bugs and inconsistencies that they discovered, which opened our eyes to many of the minor problems present. This feedback allowed us to modify the site further and address those issues.</p>
+
+<p>The feedback process, although short and simple, has been instrumental in refining the functionality and user experience of the ICStudy platform.</p>
+
 
   <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/1">M1 project board</a></p>
   <p><a href="https://github.com/orgs/thesoftwaredevelopers/projects/2">M2 project board</a></p>
